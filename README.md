@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyamio
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning seo.
+- 🌱 I’m currently learning android kotlin programming.
 - 💞️ I’m looking to collaborate on my projects.
 - 📫 How to reach me: https://t.me/IlyaMuradzade 
 
